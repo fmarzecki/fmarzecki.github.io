@@ -4,15 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Filip, 25 years old.
+I'm Filip, 26 years old.
 
-I work as an **Level 2 Network Engineer** for a German banking data center.
+
+I work as an **Cisco Lab Network Engineer**
 
 This is my public notebook where I document technical things. You might find something useful here.
 
 ## Certifications
 - Fortinet Certified Professional - Network Security (NSE 4)
-- CCNP ENCOR
+- CCNP Enterprise
 - CCNA
 - Azure AZ-700
 
